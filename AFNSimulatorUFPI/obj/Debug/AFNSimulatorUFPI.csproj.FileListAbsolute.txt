@@ -1,0 +1,8 @@
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Debug\AFNSimulatorUFPI.exe.config
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Debug\AFNSimulatorUFPI.exe
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Debug\AFNSimulatorUFPI.pdb
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Debug\AFNSimulatorUFPI.csproj.AssemblyReference.cache
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Debug\AFNSimulatorUFPI.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Debug\AFNSimulatorUFPI.exe
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Debug\AFNSimulatorUFPI.pdb
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Debug\AFNSimulatorUFPI.csproj.SuggestedBindingRedirects.cache

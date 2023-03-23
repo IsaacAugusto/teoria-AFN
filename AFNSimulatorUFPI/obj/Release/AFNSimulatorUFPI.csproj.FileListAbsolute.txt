@@ -1,0 +1,6 @@
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Release\AFNSimulatorUFPI.exe.config
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Release\AFNSimulatorUFPI.exe
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\bin\Release\AFNSimulatorUFPI.pdb
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Release\AFNSimulatorUFPI.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Release\AFNSimulatorUFPI.exe
+C:\Users\isaac\Documents\Projects\AFNSimulatorUFPI\AFNSimulatorUFPI\obj\Release\AFNSimulatorUFPI.pdb
