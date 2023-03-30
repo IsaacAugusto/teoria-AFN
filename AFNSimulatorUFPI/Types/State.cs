@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AFNSimulatorUFPI.Types
 {
-  struct State
+  public struct State
   {
     public string Name;
     public bool IsFinal;

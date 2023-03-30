@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AFNSimulatorUFPI.Types
 {
-  struct Transition
+  public struct Transition
   {
     public string From;
     public string To;

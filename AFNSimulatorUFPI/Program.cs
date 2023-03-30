@@ -17,10 +17,13 @@ namespace AFNSimulatorUFPI
 
     static void Main(string[] args)
     {
+      var contructor = new AFNConstructor();
+
+      contructor.ReadAFNFromFile(out _states, out _transitions);
+
       string entry = "100000000000000000100";
       int entryPointer = 0;
 
-      CreateTest();
       _currentState = new List<State>();
       _currentState.Add(_states[0]);
       var statesToAdd = new List<State>();

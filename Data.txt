@@ -1,0 +1,12 @@
+S:Q1;Final:false;
+S:Q2;Final:false;
+S:Q3;Final:false;
+S:Q4;Final:true;
+
+Entry:0;From:Q1;To:Q1;
+Entry:1;From:Q1;To:Q1;
+Entry:1;From:Q1;To:Q2;
+Entry:0;From:Q2;To:Q3;
+Entry:1;From:Q2;To:Q3;
+Entry:0;From:Q3;To:Q4;
+Entry:1;From:Q3;To:Q4;
